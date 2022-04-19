@@ -12,4 +12,5 @@ y <- rnorm(100)
 
 #11:01 AM
 
-# go bears
+# Bears are the worst!
+print("Go Packers!!!!!")
