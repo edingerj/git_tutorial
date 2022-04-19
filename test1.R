@@ -14,3 +14,5 @@ y <- rnorm(100)
 
 # Bears are the worst!
 print("Go Packers!!!!!")
+
+z <- x + y
